@@ -2,9 +2,7 @@
 #  Koa & MongoDB Atlas - CRUD Restful API
 
 ## Live Demo
-
-## Todo
-[ ]live demo
+[Heroku-query-one-article-api-demo](https://guarded-anchorage-73460.herokuapp.com/article/5ed2145e2021cf0470a07c8f)
 
 ## Endpoint
 Please see file `/api.md`
