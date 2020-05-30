@@ -24,6 +24,7 @@ Please see file `/api.md`
 - [What is require? | Node.js](https://nodejs.org/en/knowledge/getting-started/what-is-require/)
 - [koa-api-example/server_db.js at master · NoobTW/koa-api-example](https://github.com/NoobTW/koa-api-example/blob/master/server_db.js)
 - [nswbmw/koa-mongo: MongoDB middleware for koa, support connection pool.](https://github.com/nswbmw/koa-mongo)
+- [javascript - Is it possible to deploy a NodeJs app in Vercel? - Stack Overflow](https://stackoverflow.com/questions/61808973/is-it-possible-to-deploy-a-nodejs-app-in-vercel)
 
 
 ## DB 查詢
