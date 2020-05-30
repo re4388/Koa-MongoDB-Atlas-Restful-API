@@ -13,7 +13,7 @@ dotenv.config();
 const accessLogStream = fs.createWriteStream(__dirname + '/access.log', { flags: 'a' })
 const app = new Koa();
 const router = new Router();
-const MY_PORT = process.env.PORT;
+const MY_PORT = process.env.PORT || 3000;
 
 
 
