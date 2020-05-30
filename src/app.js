@@ -56,6 +56,12 @@ app.use(async(ctx, next) => {
 
 
 router
+    .get('/', ctx => {
+        ctx.body = 'HOMEPAGE';
+    })
+    .get('/about', ctx => {
+        ctx.body = 'About Page';
+    })
     .post('/article', async ctx => {
         const { title } = ctx.request.body;
         const { body } = ctx.request.body;
