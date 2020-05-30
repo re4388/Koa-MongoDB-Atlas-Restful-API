@@ -1,9 +1,20 @@
 
+#  Koa & MongoDB Atlas - CRUD Restful API
+
+## Live Demo
+
+## Todo
+[ ]live demo
+
+## Endpoint
+Please see file `/api.md`
+
 ## 主要學習網站，程式碼和教學
-- [API 實作(五)：用 DevTools 查看 HTTP 封包 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10223809)
+- [前端工程師也該會的後端技倆 :: 第 11 屆 iT 邦幫忙鐵人賽](https://ithelp.ithome.com.tw/users/20119970/ironman/2774)
 
 ## 學習點
 - 學會用 MongoDB Atlas，連上雲端db, 對其運用CRUD
+
 
 
 ## 附加參考資料
